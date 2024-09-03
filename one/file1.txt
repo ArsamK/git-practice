@@ -4,3 +4,5 @@ Make another change in file1.
 its 1st september 2024 today.
 
 tomorrow will be 2nd sept.
+
+Added new line to check stashing.
